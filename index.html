@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="description" content="Getkcal - Calculadora de Calorias" />
+    <meta name="keywords" content="getkcal,calorias, calculadora,metabolismo,peso "  />
+    <meta name="author" content="Willian dos Santos Souza">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet">
+    <title>Getkcal</title>
+</head>
+<body>
+    
+    <header></header>
+
+    
+    <div class="container">
+        <form>
+            <div class="field">
+                <legend>Seu sexo*</legend>
+                <input type="radio" id="male" value="male" name=gender required>
+                <label for="male">Masculino</label>
+                <input type="radio" id="female" value="female" name="gender">
+                <label for="female">Feminino</label>
+            </div> 
+
+            <div class="field">
+                <label for="age">Sua idade* </label>
+                <input type="number" id="age" required>
+            </div>
+
+            <div class="field">
+                <label for="weight">Seu peso(KG)*</label>
+                <input type="number" id="weight" required >
+            </div>
+            
+            <div class="field">
+                <label for="height">Sua altura(cm)*</label>
+                <input type="number" id="height" required>
+            </div>
+            
+            <div class="field">
+                <label for="activity-level">Seu nível de atividade*</label>
+                <select id="activity-level" required>
+                    <option value=""> Seleciona uma opção </option>
+                    <option value="1.2">Sedentário</option>
+                    <option value="1.375">Pouca atividade</option>
+                    <option value="1.55">Atividade Moderada</option>
+                    <option value="1.725">Atividade Intensa</option>
+                    <option value="1.9"> Atividade muito intensa</option>
+                </select>
+            </div>
+            <span>*Campos obrigatórios</span> 
+            <input type="submit" value="Calcular">
+        </form><!--form-group-->
+                                        
+
+        <div id="modal"class="hide">
+
+            <div class="content">
+                <a href="#"> 
+                    <img src="images/close.png">
+                </a>
+                
+                <div class="data">
+                    
+                </div><!--data-->
+                <div class="result">
+                    
+                </div><!--result-->
+            </div><!--content-->
+
+        </div><!--modal-->
+
+
+
+        
+
+    </div><!--container-->
+
+
+<script src="scripts/script.js"></script>
+</body>
+</html>

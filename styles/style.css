@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background-color: #282828;
+    color: white;
+}
+
+
+header{
+    margin-top: 30px;
+    width: 100%;
+    height: 100px;
+    background-image: url('../images/logo.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container{
+    margin: 0 auto;
+    width: 40%;
+    
+    
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+form .field{
+    margin-top: 15px;
+}
+
+form input[type="radio"]:checked{
+    background-color: green;
+}
+
+form input[type=number], select{
+    margin-top: 5px;
+    width: 100%;
+    font-size: 15px;
+    padding-left: 10px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #1A1A1A;
+    color: white;
+    outline: none;
+    
+}
+
+form input[type=number]:focus{
+    border: 1px solid #FF7373;
+}
+
+form select:focus{
+    border: 1px solid #FF7373;
+}
+
+form input[type=number]{
+    padding: 15px;
+}
+
+form legend{
+    margin-bottom: 8px;
+}
+
+form label,legend{
+    font-size: 16px;
+    
+}
+
+form input[type=submit]{
+    margin-top: 20px;
+    height: 45px;
+    background-image: linear-gradient(-90deg, #FF7373 0%, #FDDB33 100%);
+    color: #1A1A1A;
+    border: 0;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+
+form span{
+    margin-top: 10px;
+    font-size: 10px;
+    text-align: right;
+}
+
+.hide{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+
+    top: 0;
+    left: 0;
+    display: none; 
+    
+}
+
+.content {
+    background-color: #2d2d2ef1;
+    
+    height: 600px;
+    width: 50%;
+
+    position: fixed;
+    top: 30px;
+    left: 25%;
+
+    transition: 2s;
+}
+
+
+#modal .content a{
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
+#modal .content .data{
+    padding: 80px;
+    width: 100%;
+    color: white;
+
+    text-align: center;
+}
+
+
+
+#modal .content ul{
+    list-style: none;
+}
+
+#modal .content .result {
+    width: 100%;
+    text-align: center;
+}
+
+#modal .content strong, h1{
+    color: #FF7373;
+}
+
+#modal .content span{
+    font-size: 12px;
+    text-align: right;
+}
+
+
+
+
+
+
+
+
