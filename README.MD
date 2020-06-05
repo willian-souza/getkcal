@@ -12,6 +12,8 @@
 - [Conhecimentos adquiridos](#-conhecimentos-adquiridos)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
+---
+
 # 📄 Sobre
 Desenvolvi esse pequeno projeto com o intuito de colocar em prática meus primeiros estudos em JavaScript.
 Tomei como inspiração a [aplicação](https://www.youtube.com/watch?v=yiDq9wUiUjc) desenvolvida pelo [Mateus Silva](https://www.linkedin.com/in/mateusilva/), que é a pessoa que me inspirou a começar nessa linguagem.
