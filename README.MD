@@ -6,7 +6,7 @@
     <img src="images/getkcal.gif">
 <h1>
 
-# Índice
+# 📋 Índice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Conhecimentos adquiridos](#-conhecimentos-adquiridos)
