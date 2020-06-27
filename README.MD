@@ -7,8 +7,14 @@
 <h1>
 
 <h1 align = "center">
-    <a href="https://frontend.code-inspector.com/public/project/9410/getkcal/dashboard" target="_blank"> 
-        <img src="https://www.code-inspector.com/project/9410/score/svg"> 
+    <a href="https://www.linkedin.com/in/willian-ssouza/">
+        <img src="https://img.shields.io/badge/made%20by-Willian%20Souza-orange">
+    </a>
+    <a href="https://github.com/willian-souza/rocketseat-site/blob/master/LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-orange">
+    </a>    
+    <a href="https://frontend.code-inspector.com/public/project/9410/getkcal/dashboard">
+        <img src="https://img.shields.io/badge/Code%20Quality%20Score-100-orange">
     </a>
 <h1>
 
@@ -18,6 +24,7 @@
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Conhecimentos adquiridos](#-conhecimentos-adquiridos)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
+- [Licença](#-licença)
 
 ---
 
@@ -48,6 +55,9 @@ Os campos são todos tratados, onde não é possível deixar nenhum campo em bra
 ---
 
 # 📦 Como baixar o projeto
+
+OBS: Para realizar os procedimentos abaixo é necessário ter o [Git](https://git-scm.com/downloads) e o [Node](https://nodejs.org/en/download/) instalados na máquina.
+
 ```bash
 
     # Clonar o repositório
@@ -65,4 +75,10 @@ Os campos são todos tratados, onde não é possível deixar nenhum campo em bra
 ```
 ---
 
-Desenvolvido 🤓 por [Willian dos Santos Souza](https://www.linkedin.com/in/willian-dos-santos-souza-83348261/)
+# 📝Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+Desenvolvido por [Willian dos Santos Souza](https://www.linkedin.com/in/willian-ssouza/)
+
