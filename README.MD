@@ -56,7 +56,7 @@ Os campos são todos tratados, onde não é possível deixar nenhum campo em bra
 
 # 📦 Como baixar o projeto
 
-OBS: Para realizar os procedimentos abaixo é necessário ter o [Git](https://git-scm.com/downloads) e o [Node](https://nodejs.org/en/download/) instalados na máquina.
+OBS: Para realizar os procedimentos abaixo é necessário ter o [Git](https://git-scm.com/downloads) instalado na máquina.
 
 ```bash
 
@@ -66,11 +66,8 @@ OBS: Para realizar os procedimentos abaixo é necessário ter o [Git](https://gi
     # Entrar no diretório baixado
     $ cd getkcal
 
-    # Instalar as dependências        
-    $ npm install 
-
-    # Iniciar o projeto
-    $ npm start 
+    # Executar a apliação
+    Basta abrir o arquivo index.html em qualquer navegador
 
 ```
 ---
