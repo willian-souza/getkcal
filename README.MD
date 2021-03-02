@@ -4,6 +4,9 @@
 
 <h1>
     <img src="images/getkcal.gif">
+    <h3 align="center"> 
+        Access the application here 👉 <a href="https://willian-souza.github.io/getkcal/" target="_blank">GetKcal<a>
+    <h3>
 <h1>
 
 <h1 align = "center">
