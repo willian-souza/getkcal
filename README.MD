@@ -62,7 +62,7 @@ Note: To perform the procedures below on your terminal it is necessary to have [
 ```
 ---
 
-# 📝License
+# 📝 License
 This project is under license MIT. See the archive [LICENSE](/LICENSE) for more details.
 
 ---
