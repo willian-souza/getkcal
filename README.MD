@@ -19,63 +19,50 @@
 <h1>
 
 
-# 📋 Índice
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Conhecimentos adquiridos](#-conhecimentos-adquiridos)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-- [Licença](#-licença)
+# 📋 Index
+- [About](#-about)
+- [Technologies used](#-technologies-used)
+- [Download and run the project ](#-download-and-run-the-project)
+- [License](#-license)
 
 ---
 
-# 📄 Sobre
-Desenvolvi esse pequeno projeto com o intuito de colocar em prática meus primeiros estudos em JavaScript.
-Tomei como inspiração a [aplicação](https://www.youtube.com/watch?v=yiDq9wUiUjc) desenvolvida pelo [Mateus Silva](https://www.linkedin.com/in/mateusilva/), que é a pessoa que me inspirou a começar nessa linguagem.
-Do projeto original eu peguei somente a logo e a paleta de cores, toda a estilização e programação desenvolvi sozinho e adicionei algumas funcionalidades.
-A aplicação consiste em uma calculadora de calorias, que, de acordo com os dados informados pelo usuário, ela retorna a taxa de metabolismo basal e a quantidade de calorias que o usuário deve consumir diariamente caso queira manter, perder ou ganhar peso.
-Os campos são todos tratados, onde não é possível deixar nenhum campo em branco, e também para os campos idade, peso e altura não é possível digitar um valor negativo ou um valor exorbitante (Ex: Idade de 200 anos), caso aconteça é exibido um alerta para o usuário.
-É uma aplicação bem simples mas que é muito útil para quem está começando em JavaScript, que é o meu caso, pois ela abrange todos os conceitos básicos da linguagem.
+# 📄 About
+The GetKcal project is a web application that consists of a calorie calculator, which, according to the data provided by the user, returns the basal metabolism rate and the amount of calories that the user must consume daily if he wants to maintain, lose or gain weight. The fields are all treated, where it is not possible to leave any field blank, and also for the age, weight and height fields it is not possible to enter a negative value or an exorbitant value (Ex: Age 200 years), if it happens it is displayed an alert to the user.
+
+It was inspired bt the [application](https://www.youtube.com/watch?v=yiDq9wUiUjc) developed by [Mateus Silva](https://www.linkedin.com/in/mateusilva/).
 
 ---
 
-# 🖥 Tecnologias utilizadas
+# 🖥 Technologies used
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
 ---
 
-# ✍ Conhecimentos adquiridos
-- Manipulação de elementos do DOM (Document Object Model) 
-- Validação dos inputs através do JS
-- Trabalhar com eventos (click e submit)
-- Manipulação de formulários
-- Utilização de funções nativas do JS para tratamento de dados
+# 📦 Download and run the project
 
----
-
-# 📦 Como baixar o projeto
-
-OBS: Para realizar os procedimentos abaixo é necessário ter o [Git](https://git-scm.com/downloads) instalado na máquina.
+Note: To perform the procedures below on your terminal it is necessary to have [Git](https://git-scm.com/downloads) installed on the your machine.
 
 ```bash
 
-    # Clonar o repositório
+    # Clone the repository
     $ git clone https://github.com/willian-souza/getkcal
 
-    # Entrar no diretório baixado
+    # Enter the downloaded directory
     $ cd getkcal
 
-    # Executar a apliação
-    Basta abrir o arquivo index.html em qualquer navegador
+    # Run the application
+    Open the index.html file in any browser
 
 ```
 ---
 
-# 📝Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+# 📝License
+This project is under license MIT. See the archive [LICENSE](/LICENSE) for more details.
 
 ---
 
-Desenvolvido por [Willian dos Santos Souza](https://www.linkedin.com/in/willian-ssouza/)
+Developed by [Willian dos Santos Souza](https://www.linkedin.com/in/willian-ssouza/)
 
