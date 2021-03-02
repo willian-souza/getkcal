@@ -33,7 +33,7 @@
 # 📄 About
 The GetKcal project is a web application that consists of a calorie calculator, which, according to the data provided by the user, returns the basal metabolism rate and the amount of calories that the user must consume daily if he wants to maintain, lose or gain weight. The fields are all treated, where it is not possible to leave any field blank, and also for the age, weight and height fields it is not possible to enter a negative value or an exorbitant value (Ex: Age 200 years), if it happens it is displayed an alert to the user.
 
-It was inspired bt the [application](https://www.youtube.com/watch?v=yiDq9wUiUjc) developed by [Mateus Silva](https://www.linkedin.com/in/mateusilva/).
+It was inspired in the [application](https://www.youtube.com/watch?v=yiDq9wUiUjc) developed by [Mateus Silva](https://www.linkedin.com/in/mateusilva/).
 
 ---
 
